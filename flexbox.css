@@ -1,0 +1,9 @@
+.flexContainer_header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  flex-direction: column-reverse;
+}
