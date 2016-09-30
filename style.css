@@ -65,16 +65,6 @@ p {
   color: black;
   font-family: 'Press Start 2P', cursive;
 }
-.object2 {
-  position: absolute;
-  transition: all 2s ease;
-  -webkit-transition: all 2s ease;
-}
-.van {
-  top: 122%;
-  left: 77%;
-}
-#axis:hover .move-left{
-  transform: translate(350px,0);
-  -webkit-transform: translate(350px,0);
+.text2 {
+  margin: 0 auto;
 }
